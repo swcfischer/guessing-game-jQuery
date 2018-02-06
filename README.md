@@ -1,0 +1,1 @@
+This is a guessing game that lets the user play until he or she has no more words left.
